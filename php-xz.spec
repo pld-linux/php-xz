@@ -5,7 +5,7 @@
 %define		php_name	php%{?php_suffix}
 %define		modname	xz
 Summary:	PHP Extension providing xz (LZMA2) compression/decompression via PHP streams
-Name:		%{php_name}-pecl-%{modname}
+Name:		%{php_name}-%{modname}
 Version:	0.1
 Release:	1
 License:	PHP 3.01
